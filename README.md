@@ -30,3 +30,17 @@ There are different types of ambiguities present in natural language:
 - **Semantic Ambiguity**
     - It is defined as ambiguity when the meaning of the words themselves can be ambiguous.
     - For example, The sentence “Mary knows a little french.” In this sentence the word “little french” is ambiguous. As we don’t know whether it is about the language french or a person.
+ 
+      ### NLP Systems
+
+- **Natural language understanding**
+    - Extract information (e.g. about entities or events) from text
+    - Translate raw text into a meaning representation
+    - Reason about information given in text
+    - Execute NL instructions
+- **Natural language generation and summarization**
+    - Translate database entries or meaning representations to raw natural language text
+    - Produce (appropriate) utterances/responses in a dialog
+    - Summarize (newspaper or scientific) articles, describe images
+- **Natural language translation**
+    - Translate one natural language to another
