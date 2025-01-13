@@ -5,3 +5,14 @@ Natural Language Processing
 **Natural Language Processing (NLP)** is defined as the branch of Artificial Intelligence that provides computers with the capability of understanding text and spoken words in the same way a human being can. 
 It incorporates machine learning models, statistics, and deep learning models into computational linguistics i.e. rule-based modeling of human language to allow computers to understand text, spoken words 
 and understands human language, intent, and sentiment.
+
+
+### Applications of NLP
+
+- Informational retrieval
+- Information extraction
+- Question Answering
+- Machine Translation
+- Summarization
+- Auto Completion
+- Spell Correction
