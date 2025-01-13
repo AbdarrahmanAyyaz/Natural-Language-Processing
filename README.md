@@ -16,3 +16,17 @@ and understands human language, intent, and sentiment.
 - Summarization
 - Auto Completion
 - Spell Correction
+
+### **NLP Ambiguities**
+
+There are different types of ambiguities present in natural language:
+
+- **Lexical Ambiguity**
+    - It is defined as the ambiguity associated with the meaning of a single word. A single word can have different meanings. Also, a single word can be a noun, adjective, or verb.
+    - For example, The word “bank” can have different meanings. It can be a financial bank or a riverbank. Similarly, the word “clean” can be a noun, adverb, adjective, or verb.
+- **Syntactic Ambiguity**
+    - It is defined as the ambiguity associated with the way the words are parsed.
+    - For example, The sentence “Visiting relatives can be boring.” This sentence can have two different meanings. One is that visiting a relative’s house can be boring. The second is that visiting relatives at your place can be boring
+- **Semantic Ambiguity**
+    - It is defined as ambiguity when the meaning of the words themselves can be ambiguous.
+    - For example, The sentence “Mary knows a little french.” In this sentence the word “little french” is ambiguous. As we don’t know whether it is about the language french or a person.
