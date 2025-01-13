@@ -103,3 +103,20 @@ There are different types of ambiguities present in natural language:
     - Multimodal NLP combines data from multiple modes, such as text, speech, images, and videos, to gain a deeper understanding of the data.
     - Multimodal NLP is used in a variety of applications, such as video captioning, speech recognition, and image captioning.
     - Resource:  [MUM: A new AI milestone for understanding information](https://blog.google/products/search/introducing-mum/)
+
+
+  ### SpaCy Package
+
+- **Resource:**  [How to Train NER with Custom training data using spaCy](https://manivannan-ai.medium.com/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6)
+- spaCy is an open-source library used for natural language processing in python. It is extremely popular for processing a large amount of unstructured data generated at a vast scale in the industry and generate useful and meaningful insights from the data.
+- spaCy NLP pipeline
+
+
+
+- [Ultimate Guide to Understand and Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
+- [NLP Zero to One: Full Course](https://medium.com/nerd-for-tech/nlp-zero-to-one-full-course-4f8e1902c379)
+- [OpenAI GPT-3 Tokenizer](https://platform.openai.com/tokenizer)
+- [How is Semantic Search Different from Keyword Search?](https://www.traindex.io/blog/how-is-semantic-search-different-from-keyword-search-578d/)
+- [Hamza's "Travelle" website](https://traversaal.com/travelle/)
+- [MUM: A new AI milestone for understanding information](https://blog.google/products/search/introducing-mum/)
+- [How to Train NER with Custom training data using spaCy](https://manivannan-ai.medium.com/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6)
